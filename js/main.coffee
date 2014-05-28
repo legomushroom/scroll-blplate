@@ -24,4 +24,3 @@ scroller = new IScroll '#js-main',
 # controller = $.superscrollorama
 #   triggerAtCenter: false
 #   playoutAnimations: true
-
